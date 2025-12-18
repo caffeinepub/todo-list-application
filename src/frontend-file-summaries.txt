@@ -1,0 +1,6 @@
+{
+  "frontend/src/App.tsx": "Main application wrapper that provides ThemeProvider and QueryClient context, renders TodoApp component and Toaster for notifications.",
+  "frontend/src/pages/TodoApp.tsx": "Complete todo list application with task management (add, edit, delete, toggle), filtering (all/active/completed), due date support, and responsive UI with loading states and empty states.",
+  "frontend/src/hooks/useQueries.ts": "React Query hooks for all backend operations including getAllTasks, addTask, updateTask, deleteTask, and toggleTask with automatic cache invalidation.",
+  "frontend/src/index.css": "Custom OKLCH color system with vibrant blue/purple theme for both light and dark modes, optimized for a modern todo application aesthetic."
+}
