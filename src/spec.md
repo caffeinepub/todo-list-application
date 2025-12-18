@@ -24,7 +24,9 @@ A simple todo list application that allows users to manage their tasks with full
   - Completed tasks only
 
 ### User Interface
-- Simple and clean design
+- Simple and clean design with blue background theme
+- Blue background color applied consistently across the main layout and all pages
+- Text and component colors optimized for proper contrast and readability against the blue background
 - Intuitive task management controls
 - Clear visual feedback for task states
 - Responsive layout
